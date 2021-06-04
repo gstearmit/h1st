@@ -2,3 +2,5 @@ ReCommonMark >= 0.6.0
 Sphinx >= 3.0.4
 Sphinx-AutoBuild >= 0.7.1
 sphinx_rtd_theme
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+sphinx>=3.0.4 # not directly required, pinned by Snyk to avoid a vulnerability
